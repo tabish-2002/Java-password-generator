@@ -1,4 +1,4 @@
-# Java-project
+# Java-Password-Generator
 Password Generator
 
 This program generates a random password based on user input, with customizable options for password length and character types to include. It also provides the option to copy the generated password to the clipboard.
